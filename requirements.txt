@@ -1,0 +1,9 @@
+allure-pytest==2.9.43
+allure-python-commons==2.9.43
+pytest==6.2.5
+selenium==3.141.0
+webdriver-manager==3.4.2
+mylib==0.0.1
+packaging==20.9
+pluggy==0.13.1
+pytest-xdist==2.3.0
